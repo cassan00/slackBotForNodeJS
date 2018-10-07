@@ -38,7 +38,7 @@ nodeJS를 통해 chatBot 을 만드는 개인프로젝트
 ## History 
 
 20181005 : init project 
-20181007 : 패키정리, 이전 소스 update, README 작성
+20181007 : 패키지정리, 이전 소스 update, README 작성
 
 
 

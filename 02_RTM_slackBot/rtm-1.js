@@ -1,5 +1,9 @@
 // 3. 웹소켓 클라이언트 작성
-
+/*
+[실행결과]
+>> My Slack APU res code >> undefined
+>> WebSorcker URL (END POINT)>> wss://cerberus-xxxx.lb.slack-msgs.com/websocket/QbDop112NC67KK5HIVpnh3HAsocm_cWQQhwatXdLNO1FnXSBwbk_k4BuLeCq4kdYKnya3fACHARr59S4uh6FCXgdurTnOERvNU0EUuojm9c=
+*/
 
 // 1) 웹소켓 엔드포인트 추출
 var client = require('https');		
